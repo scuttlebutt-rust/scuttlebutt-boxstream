@@ -1,8 +1,15 @@
 [package]
 name = "scuttlebutt-boxstream"
 version = "0.1.0"
-authors = ["PabloAceG <pabloacereda98@gmail.com>"]
+authors = [
+    "Zentauro <pedrogomezmartin1999@gmail.com>"
+    "PabloAceG <pabloacereda98@gmail.com>"]
 edition = "2018"
+description = "Scuttlebutt crypto between two peers."
+license = "AGPL-3.0-or-later"
+keywords = [ "scuttlebutt", "encryption" ]
+categories = [ "protocol" ]
+workspace = "src"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
